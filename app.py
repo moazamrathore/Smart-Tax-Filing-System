@@ -50,7 +50,7 @@ def save_user_data(user_data):
 
 def main():
     st.set_page_config(page_title="Pakistan Tax Calculator", layout="centered")
-    st.image("D:\MOAZAM\MOAZAM FAST UNIVERSITY\Sixth semester\Programming for finance\Assignment 2/latestincometaxcalculatorupdated.jpg", width=800)
+    st.image("https://cdn.pixabay.com/photo/2019/04/02/09/27/income-tax-4097292_1280.jpg", width=800)
     st.title("📊 Pakistan Tax Calculator")
     st.markdown("Welcome to the **Tax Filing App**! Enter your details below to calculate your tax liability.")
     st.header("👤 Personal Details")
